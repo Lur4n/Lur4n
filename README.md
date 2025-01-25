@@ -18,6 +18,8 @@
 
 ![Lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=Lur4n&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ### 🌐 Redes Sociais
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lur4n/)
