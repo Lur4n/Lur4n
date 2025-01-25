@@ -1,5 +1,7 @@
 ## Olá, eu sou Luan Carlos 👋
 
+<hr>
+
 ### 📈 Stats 
 
 ![Lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=Lur4n&show_icons=true&theme=dracula)
