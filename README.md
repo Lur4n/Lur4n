@@ -1,4 +1,4 @@
-### Olá, eu sou Luan Carlos 👋
+## Olá, eu sou Luan Carlos 👋
 
 ### 📈 Stats 
 
