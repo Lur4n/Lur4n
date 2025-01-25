@@ -14,6 +14,5 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <hr>
-![FollowMeInstagramGIF (2)](https://github.com/user-attachments/assets/e66e9145-abc7-4b91-9e42-f46e082695ce)
- Redes Sociais
+### 🌐 Redes Sociais
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lur4n/)
