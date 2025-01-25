@@ -3,7 +3,7 @@
 ### 📈 Stats 
 
 ![Lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=Lur4n&show_icons=true&theme=dracula)
-<br>
+
 ### Desenvolvi projetos nas seguintes tecnologias
 <div style="display: inline_block;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ">
