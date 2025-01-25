@@ -1,5 +1,4 @@
-<h1>Olá, eu sou Luan Carlos 👋<h1>
-<hr>
+# Olá, eu sou Luan Carlos 👋
 
 ### 📈 Stats 
 
