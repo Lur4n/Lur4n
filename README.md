@@ -18,7 +18,7 @@
 
 ![Lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=Lur4n&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur4n&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur4n&layout=donut)](https://github.com/lur4n/github-readme-stats)
 
 ### 🌐 Redes Sociais
 
