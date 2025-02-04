@@ -25,7 +25,7 @@
 </div>
 <!--
 ### 📈 Esse é o meu Stats do git nos ultimos meses 
-![Lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=Lur4n&show_icons=true&theme=dracula)
+![Lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=Lur4n&show_icons=true&theme=dracula)-->
 
 ### 🧑‍💻 Minhas linguagens mais usadas em repositórios públicos
 
