@@ -26,7 +26,7 @@
 
 ### 📈 Esse é o meu Stats do git nos ultimos meses 
 
-![Lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=lur4n&show_icons=true&theme=transparent)
+![Lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=lur4n&show_icons=true&theme=dracula)
 
 ### 🧑‍💻 Minhas linguagens mais usadas em repositórios públicos
 
