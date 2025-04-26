@@ -24,10 +24,6 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
 </div>
 
-### 📈 Esse é o meu Stats do git nos ultimos meses 
-
-![lur4n GitHub stats](https://github-readme-stats.vercel.app/api?username=lur4n&show_icons=true&theme=dracula)
-
 ### 🧑‍💻 Minhas linguagens mais usadas em repositórios públicos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur4n&layout=donut)](https://github.com/lur4n/github-readme-stats)
