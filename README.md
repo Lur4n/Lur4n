@@ -1,14 +1,21 @@
-# Olá👋, eu sou Luan🦎
+# Olá, eu sou Luan
 
-### 🔍 Sobre mim
+### Sobre mim
 
 > Meu nome é Luan Carlos, tenho 25 anos de idade, sou de Doresópolis MG, Brasil. Atualmente estou cursando o 5° período de Engenharia da Computação pelo **Instituto Federal de Minas Gerais** - *Campus* Bambuí.
 
 ---
 
-### ⚒️ Tecnologias
+### Redes Sociais
 
- 🚩 Em minha passagem pelo curso de **Engenharia da Computação** até aqui, tive o privilégio de desenvolver projetos nas seguintes tecnologias
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lur4n/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-santos-681951261/)
+
+---
+
+### Tecnologias
+
+  Em minha passagem pelo curso de **Engenharia da Computação** até aqui, tive o privilégio de desenvolver projetos nas seguintes tecnologias
 <div style="display: inline_block;">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
@@ -29,10 +36,3 @@
 ### 🧑‍💻 Minhas linguagens mais usadas em repositórios públicos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lur4n&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🌐 Redes Sociais 📨
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lur4n/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-santos-681951261/)
