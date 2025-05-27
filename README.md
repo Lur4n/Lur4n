@@ -15,7 +15,7 @@
 
 ### Tecnologias
 
-  Em minha passagem pelo curso de **Engenharia da Computação** até aqui, tive o privilégio de desenvolver projetos nas seguintes tecnologias
+  Em minha passagem pelo curso de **Engenharia da Computação** até aqui, tive o privilégio de desenvolver pequenos e médios projetos com as seguintes tecnologias
 <div style="display: inline_block;">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
