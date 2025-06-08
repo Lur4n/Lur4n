@@ -33,6 +33,3 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
 </div>
 
-### 🧑‍💻 Minhas linguagens mais usadas em repositórios públicos
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lur4n&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
