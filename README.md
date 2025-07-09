@@ -1,10 +1,6 @@
-# Olá, eu sou Luan
+## Olá, eu sou Luan
 
-### Sobre mim
-
-> Meu nome é Luan Carlos, tenho 25 anos de idade, sou de Doresópolis MG, Brasil. Atualmente estou cursando o 5° período de Engenharia da Computação pelo **Instituto Federal de Minas Gerais** - *Campus* Bambuí.
-
----
+Meu nome é Luan Carlos, tenho 25 anos de idade, sou de Doresópolis MG, Brasil. Atualmente estou cursando o 5° período de Engenharia da Computação pelo **Instituto Federal de Minas Gerais** - *Campus* Bambuí.
 
 ### Redes Sociais
 
